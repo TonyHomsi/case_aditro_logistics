@@ -65,7 +65,7 @@ conda env create --file enviroment.yml
 conda activate logistec
 ```
 
-4. Verify that the new environment(poc) was installed correctly:
+4. Verify that the new environment(logistec) was installed correctly:
 ```
 conda env list
 ```
